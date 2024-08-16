@@ -1,4 +1,3 @@
-# SMS_Spam_Prediction
 # Spam Classification with DistilBERT
 
 This project demonstrates how to build and train a spam classification model using the DistilBERT transformer model. The model is trained to classify SMS messages as either "spam" or "ham" (not spam).
@@ -29,7 +28,7 @@ To set up the environment, install the required libraries using pip:
 ```bash
 pip install pandas scikit-learn transformers torch
 
-
+```
 ## Data
 This section explains how to load and preprocess the data. It describes the format of the data and how it is split into features and labels.
 Loading the dataset: Reads the SMS data from a file and assigns column names.
