@@ -14,7 +14,6 @@ This project demonstrates how to build and train a spam classification model usi
 
 ## Overview
 
-Explanation: This section gives a brief summary of what the project does. It outlines the main steps involved in the spam classification process:
 
 Data loading and preprocessing: This step involves loading the SMS data and preparing it for analysis.
 Tokenization of text data: Here, the text data is converted into a format that can be processed by the DistilBERT model.
