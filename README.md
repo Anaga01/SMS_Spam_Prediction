@@ -2,14 +2,6 @@
 
 This project demonstrates how to build and train a spam classification model using the DistilBERT transformer model. The model is trained to classify SMS messages as either "spam" or "ham" (not spam).
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Installation](#installation)
-- [Data Loading and Preprocessing](#Data-Loading-and-Preprocessing)
-- [Model Training](#model-training)
-- [Prediction](#prediction)
-- [Usage](#usage)
 
 
 ## Overview
